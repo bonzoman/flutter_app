@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
-      home: HelloPage('타이틀~~~~~1'),
+      home: HelloPage('타이틀~~~~~3'),
       //home: CupertinoPage(),
     );
   }
