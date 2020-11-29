@@ -24,7 +24,7 @@ class HomePage extends StatelessWidget {
               children: [
                 Text("Instagram에 오신걸 환영합니다.", style: TextStyle(fontSize: 24.0)),
                 Padding(padding: EdgeInsets.all(8.0)),
-                Text("사진과 동영상을 보려면 팔로우 하세요..."),
+                Text("사진과 동영상을 보려면 팔로우 하세요...."),
                 Padding(padding: EdgeInsets.all(8.0)),
                 SizedBox(
                   width: 260.0,
